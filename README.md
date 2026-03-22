@@ -1,12 +1,11 @@
 ## - 👋 Hi, I’m Jahid Hasan, a passionate Full-Stack Web Developer.
-https://www.facebook.com/photo/?fbid=911996831462611&set=a.100398822622420
-- 💻 I’m currently working as a Web Developer, building modern and responsive web applications.
+
 - 🔭 I’m currently working on full-stack projects using Laravel and React.
 - 🌱 I’m currently learning advanced backend architecture, API development, and system design.
 - 👯 I’m looking to collaborate on open-source web projects and innovative startup ideas.
 - 🤔 I’m looking for help with scaling applications and improving performance optimization.
 - 💬 Ask me about Laravel, React, JavaScript, PHP, and web development best practices.
-- 📫 How to reach me: jahidhasan01568854578@gmail.com | +8801568854578
+- 📫 How to reach me: jahid.niyd@gmail.com | +880 156 885-4578
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving coding problems and turning ideas into real-world applications 🚀
 
