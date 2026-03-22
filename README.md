@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m Jahid Hasan, a passionate Full-Stack Web Developer.
-
-https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/656818388_911996834795944_6997797061973503566_n.png?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=MQd0hqtxy9cQ7kNvwF_N82x&_nc_oc=AdrGhWFeD-b5pp_wn90mNSiCfD5khZY2dauINUA6qc-r0OGBpLq0bnUuiA0FITP9KtY&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=Hnii85dBt-_3Pl62XArhQw&_nc_ss=7a32e&oh=00_AfzmwoWJqKq4IsGE6cSVPnqzBzwTzh__AIS9Z9khIZJS4A&oe=69C6079F
+<img aline="left" alt="codig" sec="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/656818388_911996834795944_6997797061973503566_n.png?_nc_cat=101&ccb=1-7&_nc_sid=2a1932&_nc_ohc=MQd0hqtxy9cQ7kNvwF_N82x&_nc_oc=AdrGhWFeD-b5pp_wn90mNSiCfD5khZY2dauINUA6qc-r0OGBpLq0bnUuiA0FITP9KtY&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=Hnii85dBt-_3Pl62XArhQw&_nc_ss=7a32e&oh=00_AfzmwoWJqKq4IsGE6cSVPnqzBzwTzh__AIS9Z9khIZJS4A&oe=69C6079F
+">
 
 - 🔭 I’m currently working on full-stack projects using Laravel and React.
 - 🌱 I’m currently learning advanced backend architecture, API development, and system design.
